@@ -4,6 +4,9 @@ substitle: Subtitle
 author   : Author
 job      : job
 widgets  : [mathjax]
+github:
+  user: ramnathv
+  repo: test-repo-slidify
 ---
 
 ## Slide 1
