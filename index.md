@@ -24,3 +24,16 @@ qplot(wt, mpg, data = mtcars)
 
 Use the slide separator line to specify slide metadata
 
+---
+
+## Some Math
+
+Let us now try out some Math.
+
+$$
+\begin{aligned}
+\alpha & = \beta + \gamma \\
+\gamma & = \sum x_i + y_i
+\end{aligned}
+$$
+
